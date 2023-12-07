@@ -3,5 +3,3 @@ Rama principal
 Boton presionado
 
 Se agrega prueba para el pull desde origin
-
-Se agrega linea para validar SSH
