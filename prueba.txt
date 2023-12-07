@@ -4,4 +4,4 @@ Boton presionado
 
 Se agrega prueba para el pull desde origin
 
-Se agrega linea para validar SSH
+Se agrega linea para validar SSH ...
