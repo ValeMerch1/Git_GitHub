@@ -1,5 +1,11 @@
 Rama principal
 
-Boton presionado
+Boton presionado desde github
 
 Cambios de diseño
+
+Se agrega prueba para el pull desde origin
+
+Se agrega linea para validar SSH ...
+
+Hola a todos
