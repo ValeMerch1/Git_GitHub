@@ -1,6 +1,6 @@
 Rama principal
 
-Boton presionado desde github
+Boton presionado
 
 Se agrega prueba para el pull desde origin
 
