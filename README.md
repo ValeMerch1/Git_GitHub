@@ -4,3 +4,5 @@
 # AppCursoGit
 
 Cambio en readme
+
+Fecha de creación 2021.
